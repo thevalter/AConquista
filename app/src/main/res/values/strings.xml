@@ -1,6 +1,14 @@
 <resources>
     <string name="app_name">Conquista</string>
     <string name="TresSegundos">O objetivo da Regra dos 3 Segundos é fazer você abordar uma mulher rapidamente, antes que a ansiedade o impeça de se aproximar dela.
+        A timidez, o medo de ser rejeitado e a insegurança são obstáculos para maioria dos caras.
+        Você não quer que uma mulher o veja assim, inseguro. E, quanto mais tempo você demora, mais inseguro e nervoso
+        você fica. Essa não é a impressão que você quer comunicar quando se aproxima de uma mulher.</string>
 
-A timidez, o medo de ser rejeitado e a insegurança são obstáculos para maioria dos caras. Você não quer que uma mulher o veja assim, inseguro. E, quanto mais tempo você demora, mais inseguro e nervoso você fica. Essa não é a impressão que você quer comunicar quando se aproxima de uma mulher.</string>
+    <string name="Abordagem">Postura Nada de cabeça baixa, ombros caídos e andar desengonçado. Afinal, você não quer parecer um mendigo corcunda pedindo esmola.
+    Comece a observar sua postura e avalie se ela está de acorde com a imagem que gostaria de passar.
+    Ou seja, de um homem confiante e que vai atrás daquilo que deseja.</string>
+
+    <string name="abertura">Você pode me dar um informação? Ela: Posso. Você: Qual o seu nome? Ela: (Risos) Fulana. Era essa a informação?</string>
+    <string name="congratulations">Parabéns você atingiu a pontuação maxima!</string>
 </resources>
