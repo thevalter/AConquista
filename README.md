@@ -30,8 +30,6 @@ Um curso como esse é uma oportunidade de ouro.
 
 Valew mesmo galera.
 
-[O sucesso é uma ciência exata](http://geracaodevalor.com/blog/o-sucesso-e-uma-ciencia-exata/)
-
 
 
 
