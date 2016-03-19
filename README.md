@@ -5,7 +5,6 @@ Applicativo desenvolvido através das intruções passadas no curso **AndroidStu
 Para alguns caras abrir uma conversa, quebrar o gelo é a parte mais dificil e as vezes o nervosismo pode estragar com tudo. Nosso aplicativo pode ajudar você mesmo que ja seja um expert no assunto ou um iniciante.
 **AConquista** é voltado para desenvolvimento de habilidades *sociais*.
 Através de um sistema de Gamificação motivamos você a ler nossas dicas e se desenvolver para conquistar aquela garota especial.
-Mas é claro você precisa testar por si proprio, colocando tudo que é ensinado em pratica.
 
 ![Layout:](https://trello-attachments.s3.amazonaws.com/56664782f97a05141ac6c85b/525x841/b2a15d022c0e84ab53d1d893c247f776/layout.png) 
 
@@ -30,6 +29,8 @@ Um agradecimento Especial a todos os integrantes do **GDG Maceió** que são de 
 Um curso como esse é uma oportunidade de ouro. 
 
 Valew mesmo galera.
+
+[O sucesso é uma ciência exata](http://geracaodevalor.com/blog/o-sucesso-e-uma-ciencia-exata/)
 
 
 
