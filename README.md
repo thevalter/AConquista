@@ -27,7 +27,7 @@ LinearLayout
 
 -----
 Um agradecimento Especial a todos os integrantes do **GDG Maceió** que são de grande importancia para a comunidade no estado. 
-Um curso como esse é um oportunidade de ouro. 
+Um curso como esse é uma oportunidade de ouro. 
 
 Valew mesmo galera.
 
